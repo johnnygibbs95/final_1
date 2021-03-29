@@ -1,6 +1,6 @@
 # Final1
 
-Find new puppy recipes!
+Find information on different breweries.
 
 ## Installation
 
@@ -17,10 +17,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install final_1
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Development
 
