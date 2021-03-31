@@ -57,8 +57,6 @@ class CLI
                 when "Exit"
                     exit
                 end
-
-
         end
     end
 
@@ -123,4 +121,5 @@ class CLI
             end
         end
     end
+    
 end
